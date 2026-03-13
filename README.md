@@ -136,40 +136,9 @@ Vehicle types analyzed:
 * Some cancellations occur due to driver issues or incorrect addresses.
 * Customer ratings help evaluate the overall ride experience.
 
----
-
-## 📷 Dashboard Preview
-
-(Add screenshots of your Power BI dashboards here)
-
-Example: 
-
-```
-/screenshots/overall_dashboard.png
-/screenshots/revenue_dashboard.png
-/screenshots/cancellation_dashboard.png
-```
-
----
-
-## 🚀 How to Use This Project
-
-1. Download the `.pbix` file from the repository.
-2. Open it in **Microsoft Power BI Desktop**.
-3. Explore the dashboards and interact with filters and slicers.
-
----
-
 ## 👩‍💻 Author
 
 **Riya Singh**
 
 Student Project – Power BI Dashboard Analysis
 Dnyan Ganga Educational Trust's Junior & Degree College of Science and Commerce
-
----
-
-## ⭐ Acknowledgement
-
-This project was created as part of learning **Data Visualization and Business Intelligence using Microsoft Power BI**.
-# OLA-PowerBI-project1
